@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Company</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h1>About Us</h1>
+        <p>We are a fictional company that provides amazing services to our clients.</p>
+      </section>
+      <section id="services">
+        <h1>Services</h1>
+        <p>We offer a wide range of services, including web design, development, and marketing.</p>
+      </section>
+      <section id="contact">
+        <h1>Contact Us</h1>
+        <p>Get in touch with us to learn more about our services and how we can help you.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 My Company. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
